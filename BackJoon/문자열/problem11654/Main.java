@@ -1,4 +1,4 @@
-package BackJoon.problem11654;
+package BackJoon.문자열.problem11654;
 
 
 public class Main {

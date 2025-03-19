@@ -1,4 +1,4 @@
-package BackJoon.problem5622;
+package BackJoon.문자열.problem5622;
 
 import java.util.Scanner;
 

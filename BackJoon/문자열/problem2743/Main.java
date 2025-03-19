@@ -1,4 +1,4 @@
-package BackJoon.problem27866;
+package BackJoon.문자열.problem2743;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,9 +9,6 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String s = br.readLine();
-        int n = Integer.parseInt(br.readLine())-1;
-
-        System.out.println(s.substring(n,n+1));
-        System.out.println(s.charAt(n));
+        System.out.println(s.length());
     }
 }
