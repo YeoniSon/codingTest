@@ -1,4 +1,4 @@
-package BackJoon.problem2884;
+package BackJoon.조건문.problem2884;
 
 import java.io.BufferedReader;
 import java.io.IOException;

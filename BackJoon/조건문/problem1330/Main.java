@@ -1,4 +1,4 @@
-package BackJoon.problem2480;
+package BackJoon.조건문.problem1330;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,17 +12,13 @@ public class Main {
 
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
-        int c = Integer.parseInt(st.nextToken());
 
-        if (a == b && b == c) {
-            System.out.println(10000 + a * 1000);
-        } else if (a == b || a == c) {
-            System.out.println(1000 + a * 100);
-        } else if (b == c){
-            System.out.println(1000 + b * 100);
-        } else {
-            int max = Math.max(a, Math.max(b, c));
-            System.out.println(max * 100);
+        if (a > b) {
+            System.out.println(">");
+        } else if (a < b) {
+            System.out.println("<");
+        }else {
+            System.out.println("==");
         }
     }
 }
