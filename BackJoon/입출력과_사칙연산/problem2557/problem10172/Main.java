@@ -1,4 +1,4 @@
-package BackJoon.problem10172;
+package BackJoon.입출력과_사칙연산.problem2557.problem10172;
 
 public class Main {
     public static void main(String[] args) {

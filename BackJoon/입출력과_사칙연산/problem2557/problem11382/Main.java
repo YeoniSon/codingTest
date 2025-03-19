@@ -1,4 +1,4 @@
-package BackJoon.problem10430;
+package BackJoon.입출력과_사칙연산.problem2557.problem11382;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,13 +10,10 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int a = Integer.parseInt(st.nextToken());
-        int b = Integer.parseInt(st.nextToken());
-        int c = Integer.parseInt(st.nextToken());
+        long a = Long.parseLong(st.nextToken());
+        long b = Long.parseLong(st.nextToken());
+        long c = Long.parseLong(st.nextToken());
 
-        System.out.println((a + b) % c);
-        System.out.println(((a % c) + (b % c))%c);
-        System.out.println((a*b)%c);
-        System.out.println(((a%c)*(b%c))%c);
+        System.out.println(a + b + c);
     }
 }
