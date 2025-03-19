@@ -1,4 +1,4 @@
-package BackJoon.problem11022;
+package BackJoon.반복문.problem11022;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BackJoon.problem2438;
+package BackJoon.반복문.problem25314;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,11 +10,11 @@ public class Main {
 
         int n = Integer.parseInt(br.readLine());
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                System.out.print("*");
-            }
-            System.out.println();
+        int x = n / 4;
+
+        for (int i = 0; i < x; i++) {
+            System.out.print("long ");
         }
+        System.out.print("int");
     }
 }

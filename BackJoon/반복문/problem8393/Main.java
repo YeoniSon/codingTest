@@ -1,17 +1,19 @@
-package BackJoon.problem2739;
+package BackJoon.반복문.problem8393;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
+        int sum = 0;
 
-        for (int i = 1; i <= 9; i++) {
-            System.out.printf("%d * %d = %d\n", n, i, n * i);
+        for (int i = 1; i <= n; i++) {
+            sum += i;
         }
+        System.out.println(sum);
     }
 }
