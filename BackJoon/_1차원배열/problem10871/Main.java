@@ -1,4 +1,4 @@
-package BackJoon.problem10871;
+package BackJoon._1차원배열.problem10871;
 
 import java.io.*;
 import java.util.StringTokenizer;

@@ -1,4 +1,4 @@
-package BackJoon.problem3052;
+package BackJoon._1차원배열.problem3052;
 
 //import java.util.HashSet;
 //import java.util.Scanner;

@@ -1,4 +1,4 @@
-package BackJoon.problem10818;
+package BackJoon._1차원배열.problem10818;
 
 import java.io.BufferedReader;
 import java.io.IOException;
