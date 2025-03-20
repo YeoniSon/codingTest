@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4826d672-e373-4f48-9538-fbef13be14e4" name="변경" comment="problem10952 문제,풀이">
+      <change afterPath="$PROJECT_DIR$/BackJoon/problem10951/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/problem10951/problem10951.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YeoniSon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YeoniSon/codingTest.git&quot;,
+    &quot;accountId&quot;: &quot;be5d6999-14ce-4c63-9606-69cca02bc622&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2s1ux7z4odbdUP94852xB0Yq5ZJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "애플리케이션.BackJoon.problem1000.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem1001.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem1008.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10171.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10430.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10869.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10950.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10951.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10952.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem10998.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem11022.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem11382.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem1330.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem14681.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem15552.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem18108.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem2438.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem2439.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem25304.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem25314.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem2588.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem2753.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem2884.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem8393.Main.executor": "Run",
+    "애플리케이션.BackJoon.problem9498.Main.executor": "Run",
+    "애플리케이션.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.BackJoon.problem10951.Main">
+    <configuration name="BackJoon.problem10951.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackJoon.problem10951.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackJoon.problem10951.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackJoon.problem10952.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackJoon.problem10952.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackJoon.problem10952.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackJoon.problem11022.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackJoon.problem11022.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackJoon.problem11022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackJoon.problem2438.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackJoon.problem2438.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackJoon.problem2438.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackJoon.problem2439.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackJoon.problem2439.Main" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackJoon.problem2439.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.BackJoon.problem10951.Main" />
+        <item itemvalue="애플리케이션.BackJoon.problem10952.Main" />
+        <item itemvalue="애플리케이션.BackJoon.problem2439.Main" />
+        <item itemvalue="애플리케이션.BackJoon.problem2438.Main" />
+        <item itemvalue="애플리케이션.BackJoon.problem11022.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4826d672-e373-4f48-9538-fbef13be14e4" name="변경" comment="" />
+      <created>1737635645807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737635645807</updated>
+    </task>
+    <task id="LOCAL-00001" summary="problem2557 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737636866320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737636866320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="problem1000 문제,풀이 2가지 입출력 방식 활용">
+      <option name="closed" value="true" />
+      <created>1737637497324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737637497324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="problem1001 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737637995985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737637995985</updated>
+    </task>
+    <task id="LOCAL-00004" summary="problem10998 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737638442569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737638442569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="problem1008 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737639040298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737639040298</updated>
+    </task>
+    <task id="LOCAL-00006" summary="problem10869 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737639350158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737639350158</updated>
+    </task>
+    <task id="LOCAL-00007" summary="problem10926 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737639634951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737639634951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="problem18108 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737640054892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737640054892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="problem10430 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737640442711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737640442711</updated>
+    </task>
+    <task id="LOCAL-00010" summary="problem2588 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737868257215</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737868257215</updated>
+    </task>
+    <task id="LOCAL-00011" summary="problem1382 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737868761174</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737868761174</updated>
+    </task>
+    <task id="LOCAL-00012" summary="problem10171 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737869193360</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737869193360</updated>
+    </task>
+    <task id="LOCAL-00013" summary="problem10172 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737869531593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737869531593</updated>
+    </task>
+    <task id="LOCAL-00014" summary="problem1330 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737869905489</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737869905489</updated>
+    </task>
+    <task id="LOCAL-00015" summary="problem9498 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737870593723</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737870593723</updated>
+    </task>
+    <task id="LOCAL-00016" summary="problem2753 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737881939178</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737881939178</updated>
+    </task>
+    <task id="LOCAL-00017" summary="problem14681 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737882516524</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737882516524</updated>
+    </task>
+    <task id="LOCAL-00018" summary="problem2884 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737884737211</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884737211</updated>
+    </task>
+    <task id="LOCAL-00019" summary="problem2525 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737885971745</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737885971745</updated>
+    </task>
+    <task id="LOCAL-00020" summary="problem2480 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737886605439</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737886605439</updated>
+    </task>
+    <task id="LOCAL-00021" summary="problem2739 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737886954582</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737886954582</updated>
+    </task>
+    <task id="LOCAL-00022" summary="problem10950 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737887663512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737887663512</updated>
+    </task>
+    <task id="LOCAL-00023" summary="problem8393 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737888007720</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737888007720</updated>
+    </task>
+    <task id="LOCAL-00024" summary="problem25304 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737888702764</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737888702764</updated>
+    </task>
+    <task id="LOCAL-00025" summary="problem25314 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737889221388</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737889221388</updated>
+    </task>
+    <task id="LOCAL-00026" summary="problem15552 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737889759382</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1737889759382</updated>
+    </task>
+    <task id="LOCAL-00027" summary="problem11021 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737890120356</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737890120356</updated>
+    </task>
+    <task id="LOCAL-00028" summary="problem11022 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737890536860</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737890536860</updated>
+    </task>
+    <task id="LOCAL-00029" summary="problem2438 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737890835455</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1737890835455</updated>
+    </task>
+    <task id="LOCAL-00030" summary="problem2439 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1737891116508</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1737891116508</updated>
+    </task>
+    <task id="LOCAL-00031" summary="problem10952 문제,풀이">
+      <option name="closed" value="true" />
+      <created>1738671447751</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738671447751</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem10926 문제,풀이" />
+    <MESSAGE value="problem18108 문제,풀이" />
+    <MESSAGE value="problem10430 문제,풀이" />
+    <MESSAGE value="problem2588 문제,풀이" />
+    <MESSAGE value="problem1382 문제,풀이" />
+    <MESSAGE value="problem10171 문제,풀이" />
+    <MESSAGE value="problem10172 문제,풀이" />
+    <MESSAGE value="problem1330 문제,풀이" />
+    <MESSAGE value="problem9498 문제,풀이" />
+    <MESSAGE value="problem2753 문제,풀이" />
+    <MESSAGE value="problem14681 문제,풀이" />
+    <MESSAGE value="problem2884 문제,풀이" />
+    <MESSAGE value="problem2525 문제,풀이" />
+    <MESSAGE value="problem2480 문제,풀이" />
+    <MESSAGE value="problem2739 문제,풀이" />
+    <MESSAGE value="problem10950 문제,풀이" />
+    <MESSAGE value="problem8393 문제,풀이" />
+    <MESSAGE value="problem25304 문제,풀이" />
+    <MESSAGE value="problem25314 문제,풀이" />
+    <MESSAGE value="problem15552 문제,풀이" />
+    <MESSAGE value="problem11021 문제,풀이" />
+    <MESSAGE value="problem11022 문제,풀이" />
+    <MESSAGE value="problem2438 문제,풀이" />
+    <MESSAGE value="problem2439 문제,풀이" />
+    <MESSAGE value="problem10952 문제,풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem10952 문제,풀이" />
+  </component>
+</project>
