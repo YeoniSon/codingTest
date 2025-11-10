@@ -1,4 +1,4 @@
-package BackJoon.입출력과_사칙연산.problem2557.problem10430;
+package BackJoon.입출력과_사칙연산.problem10430;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package BackJoon.입출력과_사칙연산.problem2557.problem1008;
+package BackJoon.입출력과_사칙연산.problem10998;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,6 @@ public class Main {
         int A = Integer.parseInt(st.nextToken());
         int B = Integer.parseInt(st.nextToken());
 
-
-        System.out.println((double)A/B);
+        System.out.println(A*B);
     }
 }
