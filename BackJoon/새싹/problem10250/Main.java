@@ -16,23 +16,11 @@ public class Main {
             int W = Integer.parseInt(st.nextToken());
             int N = Integer.parseInt(st.nextToken());
 
-            //층수
-            int Y;
             if (N % H == 0) {
-                Y = H * 100;
-            }else {
-                Y = N % H * 100;
-            }
-
-            // 호수
-            int X;
-            if (N % W == 0) {
-                X = N / H;
+                System.out.println((H * 100) + (N/H));
             } else {
-                X = (N / H) + 1;
+                System.out.println(((N % H) * 100) + ((N / H) + 1));
             }
-
-            System.out.println(Y + X);
         }
     }
 }
