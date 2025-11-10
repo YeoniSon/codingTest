@@ -1,2 +1,0 @@
-# codingTest
-codingTest(java)
